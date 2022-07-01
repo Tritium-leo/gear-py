@@ -9,4 +9,4 @@ todo: load dump
 
 How to use
 --------
-- like test/jsonplus
+- like test_case/jsonplus
